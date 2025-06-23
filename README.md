@@ -44,13 +44,13 @@ cd estacionamento-app
 2. Instale as dependências
 
 npm install
-# ou
+ ou
 yarn
 
 3. Execute o projeto
 
 npx react-native run-android
-# ou
+ ou
 npx expo start
 
 ✅ Requisitos
