@@ -29,10 +29,10 @@ Este aplicativo foi desenvolvido em **React Native com TypeScript** com o objeti
 
 ## 🗂 Estrutura de Pastas
 📁 src
-├── components/ # Componentes visuais reutilizáveis
-├── context/ # Context API global
-├── screens/ # Telas do aplicativo
-├── utils/ # Funções utilitárias
+├── components/ # Componentes visuais reutilizáveis\n
+├── context/ # Context API global\n
+├── screens/ # Telas do aplicativo\n
+├── utils/ # Funções utilitárias\n
 
 ## ▶️ Como rodar o projeto
 
