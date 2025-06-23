@@ -14,7 +14,7 @@ Este aplicativo foi desenvolvido em **React Native com TypeScript** com o objeti
   - Média de tempo estacionado
 
 💡 Melhorias Futuras
-- Armanezamento das iformações
+- Armazenamento das iformações em banco
 - Notificações para tempo excedido
 - Opção para selecionar número de vagas
 
