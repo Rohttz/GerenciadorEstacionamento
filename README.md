@@ -39,6 +39,7 @@ Este aplicativo foi desenvolvido em **React Native com TypeScript** com o objeti
 1. Clone o repositório
 
 git clone https://github.com/Rohttz/GerenciadorEstacionamento.git 
+
 cd estacionamento-app
 
 2. Instale as dependências
